@@ -1,10 +1,10 @@
 # 1. Importing non-flat files from the web
 
-* Import package</n>
-import pandas as pd
+* Import package*
+* import pandas as pd
 
 ##Assign url of file: url
-url = 'http://s3.amazonaws.com/assets.datacamp.com/course/importing_data_into_r/latitude.xls'
+'''url = 'http://s3.amazonaws.com/assets.datacamp.com/course/importing_data_into_r/latitude.xls''''
 
 ##Read in all sheets of Excel file: xls
 xls = pd.read_excel(url,sheet_name=None)
