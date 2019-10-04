@@ -1,6 +1,6 @@
 # 1. Importing non-flat files from the web
 
-Import package</n>
+* Import package</n>
 import pandas as pd
 
 ##Assign url of file: url
