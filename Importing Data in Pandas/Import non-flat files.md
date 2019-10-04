@@ -1,5 +1,4 @@
-# DataCamp
-1. Importing non-flat files from the web
+# 1. Importing non-flat files from the web
 
 Import package</n>
 import pandas as pd
